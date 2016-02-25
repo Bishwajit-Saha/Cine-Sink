@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="G:\avinash\movie app cinemalytics\CinemalyticsBuzz\app\build\intermediates\pre-dexed\release\support-annotations-23.1.1_5d5d977b570256acb6d3322deaa3c92029c5753a.jar" />
+    </item>
+    <item
+        jar="G:\avinash\movie app cinemalytics\CinemalyticsBuzz\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="G:\avinash\movie app cinemalytics\CinemalyticsBuzz\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.1.1_d8ecf959f084e2b39e37910379127b69e76f2565.jar" />
+    </item>
+    <item
+        jar="G:\avinash\movie app cinemalytics\CinemalyticsBuzz\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="G:\avinash\movie app cinemalytics\CinemalyticsBuzz\app\build\intermediates\pre-dexed\release\internal_impl-23.1.1_4b291695c634a85ffe7061d8561ef3c1fe012ee1.jar" />
+    </item>
+    <item
+        jar="G:\avinash\movie app cinemalytics\CinemalyticsBuzz\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="G:\avinash\movie app cinemalytics\CinemalyticsBuzz\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.1.1_029a2e5f403677969b42c79ee08a9b4682defb3b.jar" />
+    </item>
+    <item
+        jar="G:\avinash\movie app cinemalytics\CinemalyticsBuzz\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="G:\avinash\movie app cinemalytics\CinemalyticsBuzz\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.1.1_6d5b8e5540bfd93ce2809f1f01c21cc03a5c9baf.jar" />
+    </item>
+    <item
+        jar="C:\Users\bishwajit\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="G:\avinash\movie app cinemalytics\CinemalyticsBuzz\app\build\intermediates\pre-dexed\release\library-1.0.19_d0d91e77d4b87277890f3bda8560dba05056ff46.jar" />
+    </item>
+    <item
+        jar="G:\avinash\movie app cinemalytics\CinemalyticsBuzz\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="G:\avinash\movie app cinemalytics\CinemalyticsBuzz\app\build\intermediates\pre-dexed\release\com.android.support-design-23.1.1_515887369d76fedc8bd0e80f51fe90e7ad5f6569.jar" />
+    </item>
+
+</items>
